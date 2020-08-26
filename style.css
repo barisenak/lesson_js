@@ -1,4 +1,7 @@
-.input, .input2, .input3, .input4 {
+#getInfo,
+#returnInfo, 
+#deleteInfo, 
+#allInfo {
     background-color: rgb(124, 170, 255);
     color: black;
     height: 3rem;
